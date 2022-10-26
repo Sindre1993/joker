@@ -15,5 +15,8 @@
     "css, e-commerce, portfolio, website"
   ],
   "author": "Sindre Østby <sindre.e.ostby@hotmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
