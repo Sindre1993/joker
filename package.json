@@ -16,7 +16,5 @@
   ],
   "author": "Sindre Østby <sindre.e.ostby@hotmail.com>",
   "license": "ISC",
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
-  }
+  "dependencies": {}
 }
