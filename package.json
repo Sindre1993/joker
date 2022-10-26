@@ -1,0 +1,19 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "css, e-commerce, portfolio, website"
+  ],
+  "author": "Sindre Østby <sindre.e.ostby@hotmail.com>",
+  "license": "ISC"
+}
