@@ -6,7 +6,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "node src/js/joker.test.js",
-    "lint": "eslint src/**/*.js"
+    "lint": "eslint src/**/*.js",
+    "lint-fix": "eslint src/**/*.js --cache --fix"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,7 @@
     "example-joker": "0.0.4",
     "give-me-a-joke": "^0.5.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  }
 }
