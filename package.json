@@ -19,5 +19,8 @@
   "dependencies": {
     "example-joker": "0.0.4",
     "give-me-a-joke": "^0.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0"
   }
 }
